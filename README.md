@@ -21,9 +21,11 @@ Feel free to explore the code in this repository. If you have any suggestions or
 
 ## Preview
 
-[Link to My Portfolio](your-portfolio-link-here)
+[Link to My Portfolio](https://abhijeetpanigrahi.github.io/Portfolio-Website/)
 
-![Screenshot of My Portfolio](screenshot.png)
+ScreenShot of the Home Page 👇
+
+![Screenshot of My Portfolio](https://github.com/AbhijeetPanigrahi/Portfolio-Website/assets/141105280/fe8f83bd-3af6-44f1-99f4-fd6ef311c644)
 
 
 Happy coding! 🚀
